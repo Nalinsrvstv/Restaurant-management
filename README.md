@@ -4,14 +4,7 @@
 Double click RMS_GUI.jar
 ## Login
 You can use test data for the first time. You can add new staff when you log in as manager.
-### Manager
-- ID:1000 Password:Java
-- ID:5555 Password:kazukazu
-
-### Staff
-* ID:1111 Password:password
-* ID:3333 Password:david  
-(Modifing the data file directoly may make problem.)  
+  
 
 ## Show menu
 You can see all menu items by clicking ALL button, and items in particular categories by clicking Drink, Alcohol, Main, or Dessert button.  
